@@ -1,0 +1,3 @@
+# これなに？
+
+YouTubeのURLからUCxxxxを取ってくるやつ
