@@ -15,7 +15,6 @@ module.exports = async (url) => {
             return xml_url.search.replace('?channel_id=', '');;
         }
         catch (error){
-            console.log(error)
             Error_func.not_channel_page();
         }
     }
